@@ -1,0 +1,7 @@
+¿Cuál es la suma de 2 + 2? | 8;6;4;3 | 2
+¿Cuál es la capital de México? | Monterrey;Guadalajara;Ciudad de México;Puebla | 2
+¿En qué año llegó el hombre a la Luna? | 1965;1969;1972;1975 | 1
+¿Cuál es el elemento químico con símbolo O? | Oro;Osmio;Oxígeno;Orgullo | 2
+¿Quién pintó la Mona Lisa? | Picasso;Van Gogh;Rembrandt;Da Vinci | 3
+¿Qué idioma se habla en Brasil? | Español;Portugués;Inglés;Francés | 1
+¿Cuál es el río más largo del mundo? | Amazonas;Nilo;Yangtsé;Misisipi | 1
